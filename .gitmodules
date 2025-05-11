@@ -1,0 +1,3 @@
+[submodule "train/instant_id_inference/InstantID"]
+	path = train/instant_id_inference/InstantID
+	url = https://github.com/instantX-research/InstantID.git
