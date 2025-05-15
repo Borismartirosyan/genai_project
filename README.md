@@ -15,6 +15,15 @@ After that
 pip3 install -r requirements.txt
 ```
 
-To train the Dreambooth and see your results, please see train/dreambooth folder
-To use InstandID inference, please use train/instant_id folder
+To download models, please use
+
+```
+python3 train/instant_id/InstantID/download.py
+```
+
+
+To train the Dreambooth and see your results, please see train/dreambooth/ folder
+To use InstandID inference, please use train/instant_id folder, follow the documentation there. Use infer_full.py and infer_full.ipynb.
 To use GPT-4o, you know where to go.
+
+
