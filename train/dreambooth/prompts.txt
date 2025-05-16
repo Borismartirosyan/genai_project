@@ -1,0 +1,47 @@
+person: Robert
+prompt: TOK man wearing a pinstripe suit smoking a cigar, 
+        after-hours ghetto vibe, 70's photo grain, 85mm lens, 
+        vivid color, tense surroundings, in the style of josef kote, grunge beauty.
+
+person: Keanu
+prompt: a close portrait of TOK man is studio lights, highres, 
+        realistic photo, professional photography, cinematic angle, dynamic light back shining
+        
+person: Meryl
+prompt: A portrait of a TOK woman, captured in ultra-realistic 8K resolution. 
+        Her face is sharply detailed, with smooth skin textures, defined facial features, 
+        beautiful hair that falls on her shoulders, and a piercing gaze that exudes confidence. 
+        The lighting is soft yet directional, contrasting background, such as a clean white or bold color.
+
+person: Brad
+prompt: a portrait of TOK man is studio red and blue lights in style Alain Laboile, highres, 
+        realistic photo, professional photography, cinematic angle, dynamic light back shining,
+
+person: Emma 
+prompt: A close up TOK woman in a white lace and leather outfit in a futuristic setting in a 
+        surreal environment, highres, realistic photo, professional photography, cinematic angle, 
+        dynamic light back shining,
+
+person: Zendaya
+prompt: A portrait of a TOK woman, captured in ultra-realistic 8K resolution. 
+        Her face is sharply detailed, with smooth skin textures, defined facial features, beautiful hair 
+        that falls on her shoulders, and a piercing gaze that exudes confidence. 
+        The lighting is soft yet directional, contrasting background, such as a clean white or bold color.
+
+person: Zayn
+prompt: close-up of a TOK with against a stark white background, his features emphasized by soft 
+        lighting that casts gentle shadows, facing the camera, shot on Sony A7 III, his dark hair 
+        contrasting with the lightness of the smoke and his surroundings UHD
+
+person: Jaden
+prompt: TOK man wearing a white tank top, posing for the camera, looking at the viewer, 
+        in a three-quarter angle shot, gazing into the eyes, portrait photography, Kodachrome film, 
+        studio lighting, vintage photo in the style of James Vincent and Bruce Weber and Touko Valio Laaksonen
+
+person: Angelina
+prompt: image of TOK woman with a thoughtful expression, pure red background to emphasize facial details and 
+        create a mysterious vibe, realistic, UHD, rich detail
+
+person: Denzel
+prompt: high-resolution photo of TOK man wearing suit and tie, TOK man, photorealistic, 
+        UHD, shot on a Sony A7III, optimal photography, natural lighting
